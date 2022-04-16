@@ -1,0 +1,7 @@
+**/__pycache__
+/FILES
+debug.log
+*.session
+*.pyc
+*.env
+.vscode
