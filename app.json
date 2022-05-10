@@ -1,7 +1,8 @@
 {
     "name": "Web-Screenshot Bot",
     "description": "A bot to render websites",
-    "repository": "https://github.com/MRTHOR07/Web-Screenshot-Bot",
+    "repository": "https://github.com/MRTHOR07/Web-Screenshot-Bot".
+    "logo": "https://telegra.ph/file/d441304dec6935d160ab9.jpg"
     "keywords": [
         "telegram",
         "screenshot",
